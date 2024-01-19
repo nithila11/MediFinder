@@ -13,7 +13,7 @@ function Cards() {
               src='./images/Med-7.jpg'
               text='Best Selling Medicine Past Year (Upcoming)'
               label='Trending'
-              path='/services'
+              path='/products'
             />
             <CardItem
               src='./images/Med-8.jpg' 
@@ -27,13 +27,13 @@ function Cards() {
               src='./images/Med-3.jpg'
               text='Nearby Pharmacies'
               label='Locations'
-              path='/services'
+              path='/locations'
             />
             <CardItem
               src='./images/Med-4.2.jpg'
               text='Nearby Clinics'
               label='Locations'
-              path='/products'
+              path='/locations'
             />
             <CardItem
               src='./images/Med-5.jpg'
